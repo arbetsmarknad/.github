@@ -1,9 +1,19 @@
 {
   "folders": [
     {
+      "name": "components",
+      "path": "components"
+    },
+    {
+      "name": "dotgithub",
       "path": "dotgithub"
     },
     {
+      "name": "starter",
+      "path": "starter"
+    },
+    {
+      "name": "workspace",
       "path": "workspace"
     }
   ],

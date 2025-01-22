@@ -136,5 +136,7 @@ dist
 _site/
 
 # Meta projects
+/components/
 /dotgithub/
+/starter/
 /workspace/
