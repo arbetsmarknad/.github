@@ -134,3 +134,7 @@ dist
 
 # Eleventy build output
 _site/
+
+# Meta projects
+/dotgithub/
+/workspace/
