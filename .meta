@@ -1,5 +1,6 @@
 {
   "projects": {
+    "arbetsmarknad.github.io": "git@github.com:arbetsmarknad/arbetsmarknad.github.io.git",
     "components": "git@github.com:arbetsmarknad/components.git",
     "dotgithub": "git@github.com:arbetsmarknad/.github.git",
     "workspace": "git@github.com:arbetsmarknad/workspace.git",

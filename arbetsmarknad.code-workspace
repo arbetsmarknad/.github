@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "arbetsmarknad.github.io",
+      "path": "arbetsmarknad.github.io"
+    },
+    {
       "name": "components",
       "path": "components"
     },

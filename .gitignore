@@ -136,6 +136,7 @@ dist
 _site/
 
 # Meta projects
+/arbetsmarknad.github.io/
 /components/
 /dotgithub/
 /starter/
