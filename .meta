@@ -3,7 +3,8 @@
     "arbetsmarknad.github.io": "git@github.com:arbetsmarknad/arbetsmarknad.github.io.git",
     "components": "git@github.com:arbetsmarknad/components.git",
     "dotgithub": "git@github.com:arbetsmarknad/.github.git",
-    "workspace": "git@github.com:arbetsmarknad/workspace.git",
-    "starter": "git@github.com:arbetsmarknad/starter.git"
+    "node": "git@github.com:arbetsmarknad/node.git",
+    "starter": "git@github.com:arbetsmarknad/starter.git",
+    "workspace": "git@github.com:arbetsmarknad/workspace.git"
   }
 }
